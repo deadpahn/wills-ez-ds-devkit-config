@@ -64,6 +64,7 @@ Thankfully there are more projects on Github now relating to this.
 
 - Big N's official docs maybe? https://archive.org/details/NitroDevDocs
 - This is an ebook but you can read the free version on their site https://www.copetti.org/writings/consoles/nintendo-ds/
+- Great repo with more code examples and teachings https://github.com/jdriselvato/NDS-Homebrew-Development
 - Another nice over view of NDS development stuff https://www.chibialiens.com/arm/nds.php
 - NDS Homebew Development https://github.com/jdriselvato/NDS-Homebrew-Development
 - GBA dev stuff but probably still helpful https://www.coranac.com/tonc/text/toc.htm
@@ -78,7 +79,7 @@ Thankfully there are more projects on Github now relating to this.
 - https://github.com/rhaleblian/dslibris
 - https://github.com/FluBBaOfWard/NGPDS
 - https://github.com/FluBBaOfWard/NitroSwan
-- https://github.com/jdriselvato/NDS-Homebrew-Development
+
 
 
 # Final thoughts
