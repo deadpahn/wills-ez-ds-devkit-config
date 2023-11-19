@@ -1,4 +1,5 @@
-# wills-ez-ds-devkit-config
+!["ez ds bootstrap](logo.png)
+
 Trying to make it super easy to get your environment set up for Nintendo DS development
 
 After hours and hours of trying to figure out what the hell is going on, I finally figured out how to compile this.
