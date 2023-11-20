@@ -37,14 +37,6 @@ after everything downloads and stuff run
 
 `docker-compose exec devkitpro /bin/bash`
 
-### once in the container run:
-
-`apt install pip`
-
-`pip install pillow`
-
-`pip install image`
-(I know I should have this in the Dockerfile but it wasn't working I'll fix it later)
  
 ### How the hell do I make the .nds file now? 
 
